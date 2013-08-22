@@ -21,7 +21,7 @@
     </div>
   </div>
   <div class="container">
-    <div class="content">  
+    <div>    
       <jsp:doBody/>
     </div>
   </div>
