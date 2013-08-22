@@ -5,6 +5,7 @@ Spring MVC web application built on top of Spring ESPN which uses the [ESPN API]
 
 ### Notes
 
-Contact me with any questions or feedback.
+Nothing much yet, just starting out with the ESPN Now API.
+
 
 ![Built with the ESPN API](http://a.espncdn.com/i/apis/attribution/espn-api-silver_150.png)
